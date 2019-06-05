@@ -1,3 +1,9 @@
+body{
+    color: white;
+}
+#con{
+    background-image: url('../images/background.jpg');
+}
 .vs{
     display: none;
 }
